@@ -555,7 +555,7 @@
     },
     {
       "name": "video_player_web",
-      "rootUri": "file:///Users/joshualim/.pub-cache/hosted/pub.dev/video_player_web-2.3.4",
+      "rootUri": "file:///Users/joshualim/.pub-cache/git/video_player_web-efae3aa9077d4dd69605331edb56eca302ebf34c/",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -620,7 +620,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2025-04-11T07:12:24.250547Z",
+  "generated": "2025-04-11T07:15:00.845526Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Users/joshualim/Documents/flutter",
